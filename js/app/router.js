@@ -7,8 +7,8 @@ define([
   var AppRouter = Backbone.Router.extend({
     routes: {
       // Define some URL routes
-      '/projects': 'showProjects',
-      '/users': 'showUsers',
+      'projects': 'showProjects',
+      'users': 'showUsers',
       
       // Default
       '*actions': 'defaultAction'

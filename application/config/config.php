@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/MISD/proto/server/';
+$config['base_url']	= 'http://localhost/MISD/proto/';
 
 /*
 |--------------------------------------------------------------------------
