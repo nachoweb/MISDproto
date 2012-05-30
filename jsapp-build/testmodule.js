@@ -1,1 +1,0 @@
-define(["text!templates/test.html"],function(a){var b=function(){$("body").append(a)};return{init:b}})
