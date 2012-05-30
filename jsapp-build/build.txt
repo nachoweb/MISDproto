@@ -1,0 +1,13 @@
+
+require-jquery.js
+----------------
+require-jquery.js
+
+main.js
+----------------
+lib/jquery.alpha.js
+lib/jquery.beta.js
+text.js
+text!templates/test.html
+testmodule.js
+main.js
