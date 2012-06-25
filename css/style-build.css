@@ -1,1 +1,1 @@
-.beta{background-color:red;}.alpha{background-color:gray;}
+.clear {width: 100%; clear: both !important; display: inline-block;}.clear:after {content: "."; display: block; height: 0; clear: both; visibility: hidden;}#loading{background-color:red; padding:5px; font-size:9px; right:0; top:0; position:absolute; display:none; z-index:1000;}#dash-controls{border:2px solid blue; margin:5px;padding:5px;}.control{float:left;margin-left:10px;}

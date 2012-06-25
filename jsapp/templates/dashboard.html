@@ -1,0 +1,24 @@
+<div id="dash-controls">
+	<div class="control">
+		<span>Filas por página tabla</span>
+		<select onChange="$.M.test.ex.setOption( parseInt(this.value, 10))">
+			<option value="0">0</option>
+			<option value="3">3</option>
+			<option value="5">5</option>
+			<option selected value="10">10</option>
+			<option value="20">20</option>
+		</select>
+	</div>
+	<div id="manager" class="control"></div>
+	<div id="regiones" class="control"></div>
+	<div class="clear"></div>
+</div>
+<div id="dash-reports">
+	<h3>Tabla original</h3>
+	<div id="report1">Loading tabla...</div>
+	<h3>Report
+		<button id="editor" >Editar el Report</button>
+	</h3>
+	<div id="report2">Loading report...</div>
+
+</div>
